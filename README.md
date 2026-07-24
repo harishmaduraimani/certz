@@ -1,29 +1,23 @@
-# Welcome to your Lovable project
+# 🚀 Certz
 
-This project was built with [Lovable](https://lovable.dev).
+A fast, secure, browser-based bulk certificate generator that creates personalized certificates from Excel.
 
-## Build with Lovable
+## ✨ Features
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+- 📄 Generate certificates from Excel (.xlsx)
+- 🖼️ Upload PNG certificate templates
+- 📦 Download certificates as a ZIP file
+- 🔒 100% browser-based processing
+- 🚫 No data stored on servers
+- ⚡ Free for up to 100 certificates
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+## 🛠️ Tech Stack
 
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
-
-## Built with
-
-- TanStack Start
-- TypeScript
 - React
+- TypeScript
+- TanStack Start
+- Vite
 - Tailwind CSS
+- ExcelJS
+- JSZip
+- PDF-lib
